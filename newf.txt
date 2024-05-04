@@ -1,0 +1,8 @@
+x = 5
+ change by x = 10;
+ 
+ x = 15;
+ 
+ set x = 10
+ 
+ x = 10
